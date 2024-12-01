@@ -1,16 +1,9 @@
 # money_tracking
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="125px" src="https://github.com/user-attachments/assets/6951a5dd-5198-495c-a44d-9477e0ba758b">
+<img width="125px" src="https://github.com/user-attachments/assets/f43a5387-3bab-49d6-ab74-f66a8f9f0225">
+<img width="125px" src="https://github.com/user-attachments/assets/e25256a3-f231-4125-a468-e820efbe44e4">
+<img width="125px" src="https://github.com/user-attachments/assets/25409636-a888-4138-8e98-59c17acef546">
+<img width="125px" src="https://github.com/user-attachments/assets/062b23a2-147d-411d-ab6a-9aa6724445aa">
+<img width="125px" src="https://github.com/user-attachments/assets/e7287333-3a60-4f63-877d-18a285355993">
+<img width="125px" src="https://github.com/user-attachments/assets/6c2df405-aa06-41d5-a722-556d6fa578f2">
